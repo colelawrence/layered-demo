@@ -1,0 +1,15 @@
+{
+  "window.zoomLevel": 2,
+  "editor.fontSize": 12,
+  "terminal.integrated.fontSize": 12,
+  "rust-analyzer.inlayHints.enable": false,
+  "editor.semanticTokenColorCustomizations": {
+    "[Slime]": {
+      "enabled": true,
+      "rules": {
+        "typeParameter": "#56a0d8"
+      }
+    }
+  },
+  "files.autoSave": "onFocusChange"
+}
